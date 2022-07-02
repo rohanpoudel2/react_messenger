@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_messenger/static/css/main.1b2f1091.css",
+    "main.js": "/react_messenger/static/js/main.7b8503ff.js",
+    "static/media/user.png": "/react_messenger/static/media/user.be2959bfcfaeee682f4f.png",
+    "index.html": "/react_messenger/index.html",
+    "main.1b2f1091.css.map": "/react_messenger/static/css/main.1b2f1091.css.map",
+    "main.7b8503ff.js.map": "/react_messenger/static/js/main.7b8503ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2f1091.css",
+    "static/js/main.7b8503ff.js"
+  ]
+}
